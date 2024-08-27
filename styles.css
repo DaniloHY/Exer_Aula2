@@ -1,0 +1,9 @@
+* {
+    display: flex;
+    justify-content: center;
+}
+
+.p {
+    font-size: large;
+    color: rgb(255, 0, 0);
+}
