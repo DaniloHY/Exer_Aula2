@@ -1,0 +1,1 @@
+alert("Tem JavaScript nessa página");
